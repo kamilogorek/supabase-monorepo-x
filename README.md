@@ -1,1 +1,1 @@
-# Supabase GitHub Monorepo
+# Supabase GitHub Monorep
